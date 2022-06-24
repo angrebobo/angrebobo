@@ -10,8 +10,8 @@
 ![图片](/src/header.png)
 
 <a href="https://github.com/angrebobo">
-  <img align="left" height=140px src="https://github-readme-stats.vercel.app/api?username=angrebobo&show_icons=true&count_private=true" />
+  <img align="left" height=150px src="https://github-readme-stats.vercel.app/api?username=angrebobo&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/dongzl">
-  <img align="left" height=140px src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrebobo&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+  <img align="left" height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=angrebobo&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
